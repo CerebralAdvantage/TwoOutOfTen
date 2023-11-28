@@ -6,7 +6,7 @@ pick two numbers between 1 and ten-- I MEAN between 0 and 9!
 
 ### The Constraint(s)
 1. They have to be different
-2. The have to be between 0 and 9 inclusive
+2. They have to be between 0 and 9 inclusive
 3. They have to be random (at least pseudo-random)
 4. The process should be fast
 
